@@ -1,0 +1,39 @@
+[
+    {
+      "projectName": "foronce",
+      "description": "A comprehensive e-commerce site built using modern web technologies.",
+      "useRequirement": {
+        "frontend": ["React", "Tailwind CSS"],
+        "backend": ["Node.js", "Express.js"],
+        "database": ["MongoDB"]
+      },
+      "image": "https://raw.githubusercontent.com/Alsaef/img/main/Macbook-Air-foronce.netlify.app.png",
+      "gitLink": "https://github.com/jritu4h/shopping-care",
+      "liveLink": "https://foronce.netlify.app/"
+    },
+    {
+      "projectName": "Estore",
+      "description": "The eStore product page offers sorting by price, category, and rating, along with a dynamic search bar for quick product filtering. This ensures an efficient and seamless shopping experience.",
+     "useRequirement": {
+        "frontend": ["React", "Tailwind CSS"],
+        "backend": ["Node.js", "Express.js"],
+        "database": ["MongoDB"]
+      },
+      "image": "https://i.ibb.co.com/sKMggGb/Macbook-Air-estore-ecomarce-netlify-app.png",
+      "gitLink": "https://github.com/jritu4h/restore-client",
+      "liveLink": "https://estore-ecomarce.netlify.app/"
+    },
+    {
+      "projectName": "Bangla Kitchen",
+      "description": "Bangla Kitchen is a restaurant website built with React, Tailwind CSS, Node.js, and MongoDB, featuring Firebase authentication for secure online food ordering and user management.",
+     "useRequirement": {
+        "frontend": ["React", "Tailwind CSS"],
+        "backend": ["Node.js", "Express.js"],
+        "database": ["MongoDB"]
+      },
+      "image": "https://i.ibb.co.com/9ZTZQPx/Macbook-Air-localhost-13.png",
+      "gitLink": "https://github.com/jritu4h/Peak-And-Valley-Travel",
+      "liveLink": "https://bangla-kitchen.netlify.app/"
+    }
+  ]
+  
